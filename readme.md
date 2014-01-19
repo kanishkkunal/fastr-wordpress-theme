@@ -1,15 +1,19 @@
-=== Fastr ===
-fastr is based on Underscores http://underscores.me/, (C) 2012-2013 Automattic, Inc.
+## Fastr ##
+**Fastr** is a clean and minimalistic content-oriented responsive theme for ultra fast sites suitable for personal blog. With its modern look and attention to crisp typography, Fastr lets your readers focus on the content.
 
-== Changelog ==
+Fastr uses absolutely no javascript and has a very minimal CSS for its layout and responsiveness. 
 
-= 1.2.0.0 - Jan 19 2014 =
-* Removed unnecessary files
-* Sticky post styles updated
-* Fixed Tier 2 sub level menus 
+Fastr is based on [Underscores](http://underscores.me/), (C) 2012-2013 Automattic, Inc.
 
-= 1.1.0.0 - Jan 1 2014 =
-* Fixed few styling issues
+### Changelog ###
 
-= 1.0 - Dec 31 2013 =
-* Initial release of Fastr
+### 1.2.0.0 - Jan 19 2014 ###
+- Removed unnecessary files
+- Sticky post styles updated
+- Fixed Tier 2 sub level menus 
+
+### 1.1.0.0 - Jan 1 2014 ###
+- Fixed few styling issues
+
+### 1.0 - Dec 31 2013 ###
+- Initial release of Fastr
